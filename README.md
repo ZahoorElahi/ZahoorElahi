@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zahoor Elahi</h1>
-<h3 align="center">A passionate Backend developer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Golf Course managents system crm (apis)**
+- 🔭 I’m currently working on **PostOCard CRM**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Tailwind css**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZahoorElahi?tab=repositories](https://github.com/ZahoorElahi?tab=repositories)
 
 - 💬 Ask me about **Laravel**
 
-- 📫 How to reach me **zahoorelahi1221@gmail.com**
+- 📫 How to reach me **devzahoorelahi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
